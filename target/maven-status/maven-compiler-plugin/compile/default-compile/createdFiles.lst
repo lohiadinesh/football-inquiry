@@ -1,0 +1,16 @@
+com\company\footballinquiry\advice\ExceptionControllerAdvice.class
+com\company\footballinquiry\model\TeamStandingRequest.class
+com\company\footballinquiry\FootballInquiryApplication.class
+com\company\footballinquiry\model\Country.class
+com\company\footballinquiry\log\eventtype\LogEventType.class
+com\company\footballinquiry\exception\BadRequestException.class
+com\company\footballinquiry\model\Leagues.class
+com\company\footballinquiry\controller\FootBallStandingController.class
+com\company\footballinquiry\config\WebConfig.class
+com\company\footballinquiry\model\TeamStanding.class
+com\company\footballinquiry\log\aspect\LoggingAspect.class
+com\company\footballinquiry\exception\RestApiError.class
+com\company\footballinquiry\client\TeamStandingRestClient.class
+com\company\footballinquiry\service\TeamStandingService.class
+com\company\footballinquiry\log\annotation\Trace.class
+com\company\footballinquiry\dto\TeamStandingDto.class

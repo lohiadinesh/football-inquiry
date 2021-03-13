@@ -1,0 +1,16 @@
+C:\Users\HP\Downloads\football-inquiry\football-inquiry\src\main\java\com\company\footballinquiry\config\WebConfig.java
+C:\Users\HP\Downloads\football-inquiry\football-inquiry\src\main\java\com\company\footballinquiry\service\TeamStandingService.java
+C:\Users\HP\Downloads\football-inquiry\football-inquiry\src\main\java\com\company\footballinquiry\dto\TeamStandingDto.java
+C:\Users\HP\Downloads\football-inquiry\football-inquiry\src\main\java\com\company\footballinquiry\exception\RestApiError.java
+C:\Users\HP\Downloads\football-inquiry\football-inquiry\src\main\java\com\company\footballinquiry\advice\ExceptionControllerAdvice.java
+C:\Users\HP\Downloads\football-inquiry\football-inquiry\src\main\java\com\company\footballinquiry\FootballInquiryApplication.java
+C:\Users\HP\Downloads\football-inquiry\football-inquiry\src\main\java\com\company\footballinquiry\log\annotation\Trace.java
+C:\Users\HP\Downloads\football-inquiry\football-inquiry\src\main\java\com\company\footballinquiry\model\Leagues.java
+C:\Users\HP\Downloads\football-inquiry\football-inquiry\src\main\java\com\company\footballinquiry\log\eventtype\LogEventType.java
+C:\Users\HP\Downloads\football-inquiry\football-inquiry\src\main\java\com\company\footballinquiry\model\Country.java
+C:\Users\HP\Downloads\football-inquiry\football-inquiry\src\main\java\com\company\footballinquiry\log\aspect\LoggingAspect.java
+C:\Users\HP\Downloads\football-inquiry\football-inquiry\src\main\java\com\company\footballinquiry\model\TeamStanding.java
+C:\Users\HP\Downloads\football-inquiry\football-inquiry\src\main\java\com\company\footballinquiry\exception\BadRequestException.java
+C:\Users\HP\Downloads\football-inquiry\football-inquiry\src\main\java\com\company\footballinquiry\model\TeamStandingRequest.java
+C:\Users\HP\Downloads\football-inquiry\football-inquiry\src\main\java\com\company\footballinquiry\client\TeamStandingRestClient.java
+C:\Users\HP\Downloads\football-inquiry\football-inquiry\src\main\java\com\company\footballinquiry\controller\FootBallStandingController.java
