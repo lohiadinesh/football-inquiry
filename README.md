@@ -33,6 +33,7 @@ OUTPUT:
 	Import as existing maven project
 	Update maven dependencies 
 	mvn clean install 
+	Check \build.log for more details.
 	
 # AUTHOR
 	Name : DINESH KUMAR LOHIA
